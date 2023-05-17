@@ -1,2 +1,3 @@
 # MySQL-PowerBI-HR-Dashboard!
-!(https://github.com/TacoBadger/MySQL-PowerBI-HR-Dashboard/assets/11693256/962ea5d7-672f-47c0-9149-e68bbb6adace)
+![image](https://github.com/TacoBadger/MySQL-PowerBI-HR-Dashboard/assets/11693256/d08d229f-dc9c-455e-8c71-a116aa86f959)
+
