@@ -56,6 +56,7 @@ First I have the excel file here:
 ## Process
 In this step I cleaned the excel file using this script on **Microsoft SQL Server Management Studio**
 
+
 ```bash
 CREATE DATABASE projects;
 USE projects;
@@ -149,22 +150,34 @@ SELECT
 FROM 
   hr;
 
-```
 
-Data Cleaned:
+```
+- I did this because I want to identify employees age youngest and the oldest, different ethnicity and what is the most dominant race.
+- average employee that works on HQ
+- Distribution of age and gender as well
+- I also want to identify their locations so we will also add that on the PowerBI once the data is cleaned
+
+First We need different fields for the names, birthdate, gender, race department, location etc etc.
 ![image (3)](https://github.com/TacoBadger/MySQL-PowerBI-HR-Dashboard/assets/11693256/41088e17-a687-4c29-8473-27e475f5127e)
+
+Data Cleaned now looked like this and ready to download.
 ![image (4)](https://github.com/TacoBadger/MySQL-PowerBI-HR-Dashboard/assets/11693256/3f39b463-fe1b-4b9f-9293-caf290eb6479)
+
+Now I can download the file and load it into my PowerBI to create Visuals.
 
 
 ## Visual Assets
 The Average length of Employment
+
 ![image (5)](https://github.com/TacoBadger/MySQL-PowerBI-HR-Dashboard/assets/11693256/dba3c0db-cd6c-454d-81b1-e21464c28a4b)
 
 Distribution of Workforce: Headquarters and Remote
 there is a lot of employees who work on Headquarters than remote work
+
 ![image (6)](https://github.com/TacoBadger/MySQL-PowerBI-HR-Dashboard/assets/11693256/1c4a7041-e789-4d1e-8b35-75409885f55b)
 
 The following PowerBI visuals, you can see high change rate of Employees
+
 ![image (7)](https://github.com/TacoBadger/MySQL-PowerBI-HR-Dashboard/assets/11693256/4cd25f6b-6cf0-4fdf-8a1f-c9bfcee283e3)
 
 
